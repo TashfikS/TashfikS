@@ -1,9 +1,9 @@
 ### :woman_technologist: About Me :
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+<!-- - :seedling: Exploring Technical Content Writing. -->
 
-- :zap: In my free time, I solve problems on [![Linkedin Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftasfiksalehin10&logo=leetcode&logoColor=yellow)](https://leetcode.com/tasfiksalehin10/)  and read tech articles.
+- :zap: I solve problems on [![Linkedin Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftasfiksalehin10&logo=leetcode&logoColor=yellow)](https://leetcode.com/tasfiksalehin10/).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-TashfikSalehin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-m-tasfik-us-s-106226ab/)
 <!-- <div>
