@@ -1,7 +1,5 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/> -->
 
----
-
 ### :woman_technologist: About Me :
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
