@@ -5,8 +5,8 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: 
-<div>
+- :mailbox:How to reach me: [![Linkedin Badge]([https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white))]([your-linkedin-url](https://www.linkedin.com/in/s-m-tasfik-us-s-106226ab/))
+<!-- <div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/s-m-tasfik-us-s-106226ab/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,7 +17,7 @@
   <a href="https://www.facebook.com/tasfik.salehin">
     <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Facebook Badge"/>
   </a>
-</div>
+</div> -->
 
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
