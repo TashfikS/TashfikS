@@ -43,18 +43,21 @@ nd contributing to frontend and backend for building web applications.
   <br>
         <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;     
+ <br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;     <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   
-  
+  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         
-
+<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
        
 <!--                 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp; -->
